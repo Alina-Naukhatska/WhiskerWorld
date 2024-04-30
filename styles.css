@@ -88,7 +88,7 @@
   gap: 96px;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1350px) {
   .longread {
     grid-template-areas:
       "b b s"
